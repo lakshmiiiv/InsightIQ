@@ -1,0 +1,5 @@
+Online Retail.csv
+insightiq.db
+__pycache__/
+*.pyc
+.venv/
